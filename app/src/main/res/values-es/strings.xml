@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewsApp</string>
+
+    <string name="go_back">Ir atrás</string>
+
+    <!-- Navigation Tabs -->
+    <string name="trending">Destacados</string>
+    <string name="search">Buscar</string>
+    <string name="bookmarks">Guardados</string>
+
+    <!-- Trending Screen -->
+    <string name="top_headlines">Tendencias</string>
+    <string name="category_business">Negocios</string>
+    <string name="category_entertainment">Entretenimiento</string>
+    <string name="category_general">General</string>
+    <string name="category_health">Salud</string>
+    <string name="category_science">Ciencia</string>
+    <string name="category_sports">Deportes</string>
+    <string name="category_technology">Tecnología</string>
+
+    <!-- Search News Screen -->
+    <string name="search_news">Buscar noticias</string>
+    <string name="no_news_found">No se han encontrado noticias</string>
+    <string name="try_search_different_keyword">Intenta buscar con otras palabras clave</string>
+    <string name="recent_searches">Búsquedas recientes</string>
+    <string name="clear_all">Borrar todo</string>
+    <string name="content_description_delete_recent_search">Eliminar búsqueda</string>
+    <string name="content_description_see_recent_searches">Ver búsquedas recientes</string>
+
+    <!-- Bookmarks Screen -->
+    <string name="no_bookmarks">Sin guardados</string>
+    <string name="no_bookmarks_message">No has guardado ninguna noticia</string>
+    <string name="bookmarked_news">Noticias Guardadas</string>
+    <string name="article_unbookmarked">Artículo desmarcado</string>
+    <string name="undo">Deshacer</string>
+    <string name="content_description_unbookmark_article">Eliminar artículo de guardados</string>
+
+    <!-- Article Detail Screen -->
+    <string name="content_description_article_bookmarked">Artículo guardado</string>
+    <string name="content_description_article_not_bookmarked">Artículo no guardado. Toca para guardar</string>
+
+    <!-- Errors -->
+    <string name="unexpected_error">Error inesperado</string>
+    <string name="unexpected_error_message">Algo fue mal. Por favor, inténtelo de nuevo más tarde</string>
+    <string name="no_internet_connection">Sin conexión a internet</string>
+    <string name="no_internet_connection_message">Por favor, revisa tu conexión a internet e inténtelo de nuevo</string>
+
+    <!-- Date Formats -->
+    <string name="now">Ahora</string>
+    <string name="minutes_ago">Hace %1$dm</string>
+    <string name="hours_ago">Hace %1$dh</string>
+    <string name="days_ago">Hace %1$dd</string>
+</resources>

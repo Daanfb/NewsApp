@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="go_back">Go back</string>
+
+    <!-- Navigation Tabs -->
+    <string name="trending">Trending</string>
+    <string name="search">Search</string>
+    <string name="bookmarks">Bookmarks</string>
+
+    <!-- Trending Screen -->
+    <string name="top_headlines">Top Headlines</string>
+    <string name="category_business">Business</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_general">General</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+
+    <!-- Search News Screen -->
+    <string name="search_news">Search news</string>
+    <string name="no_news_found">No news found</string>
+    <string name="try_search_different_keyword">Try searching with different keywords</string>
+    <string name="recent_searches">Recent searches</string>
+    <string name="clear_all">Clear all</string>
+    <string name="content_description_delete_recent_search">Delete search</string>
+    <string name="content_description_see_recent_searches">See recent searches</string>
+
+    <!-- Bookmarks Screen -->
+    <string name="no_bookmarks">No bookmarks</string>
+    <string name="no_bookmarks_message">You haven\'t added any bookmarks yet</string>
+    <string name="bookmarked_news">Bookmarked News</string>
+    <string name="article_unbookmarked">Article unbookmarked</string>
+    <string name="undo">Undo</string>
+    <string name="content_description_unbookmark_article">Unbookmark article</string>
+
+    <!-- Article Detail Screen -->
+    <string name="content_description_article_bookmarked">Article bookmarked</string>
+    <string name="content_description_article_not_bookmarked">Article not bookmarked. Tap to bookmark</string>
+
+    <!-- Errors -->
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="unexpected_error_message">Something went wrong. Please try again later</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_internet_connection_message">Please check your internet connection and try again</string>
+
+    <!-- Date Formats -->
+    <string name="now">Now</string>
+    <string name="minutes_ago">%1$dm ago</string>
+    <string name="hours_ago">%1$dh ago</string>
+    <string name="days_ago">%1$dd ago</string>
+
+</resources>
