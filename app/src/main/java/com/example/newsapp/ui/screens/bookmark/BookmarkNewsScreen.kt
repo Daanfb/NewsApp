@@ -84,15 +84,13 @@ fun BookmarkNewsScreen(
                 .padding(top = 8.dp)
         ) {
 
-            Row {
-                Text(
-                    text = stringResource(R.string.bookmarked_news),
-                    style = MaterialTheme.typography.titleLarge,
-                    color = MaterialTheme.colorScheme.onBackground,
-                    modifier = Modifier.padding(horizontal = 16.dp)
-                )
-            }
-
+            Text(
+                text = stringResource(R.string.bookmarked_news),
+                style = MaterialTheme.typography.titleLarge,
+                color = MaterialTheme.colorScheme.onBackground,
+                modifier = Modifier.padding(horizontal = 16.dp)
+            )
+            
             Spacer(modifier = Modifier.height(8.dp))
 
             when (val display = uiState.display) {
