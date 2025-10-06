@@ -105,7 +105,7 @@ The app is structured into three main layers: **Data**, **Domain**, and **UI**.
   * Get an API key from the official website.
   * Add it to your `local.properties` file:
       ```properties
-      NEWS_API_KEY="your_api_key_here"
+      NEWS_API_KEY=your_api_key_here
       ```
 4.  **Sync the project and run** it on an Android device/emulator.
 

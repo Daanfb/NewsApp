@@ -99,7 +99,7 @@ La app está estructurada en tres capas principales: **Data**, **Domain** y **UI
     * Obtén una API key en la web oficial.
     * Añádela en el archivo `local.properties`:
       ```properties
-      NEWS_API_KEY="tu_api_key_aquí"
+      NEWS_API_KEY=tu_api_key_aquí
       ```
 4. **Sincroniza el proyecto** y ejecútalo en un dispositivo/emulador Android.
 
